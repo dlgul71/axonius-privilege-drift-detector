@@ -1,0 +1,5 @@
+{
+  "Production Operator": { "allowed_ad_groups": ["GG-Prod-Users","GG-Shared-Drives-Prod"] },
+  "Security Analyst":    { "allowed_ad_groups": ["GG-SIEM-Users","GG-Ticketing-Users"] },
+  "IAM Analyst":         { "allowed_ad_groups": ["GG-IAM-Portal","GG-Access-Review","GG-ReadOnly-Directory"] }
+}

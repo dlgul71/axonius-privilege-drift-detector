@@ -1,0 +1,3 @@
+user_principal_name,job_title,ad_groups
+john.doe@company.com,Security Analyst,"GG-SIEM-Users;GG-Admins"
+mary.smith@company.com,Production Operator,"GG-Prod-Users"
